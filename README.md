@@ -6,3 +6,10 @@ https://code.tutsplus.com/tutorials/beginners-guide-to-the-django-rest-framework
 
 Django REST Framework official tutorial website:
 https://www.django-rest-framework.org/community/tutorials-and-resources/#tutorials
+
+
+Run with: python3 manage.py runserver
+
+Try these urls:
+http://localhost:8000/authors/1
+http://localhost:8000/ 
