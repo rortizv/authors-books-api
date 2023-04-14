@@ -10,6 +10,9 @@ https://www.django-rest-framework.org/community/tutorials-and-resources/#tutoria
 
 Run with: python3 manage.py runserver
 
+
 Try these urls:
+
 http://localhost:8000/authors/1
+
 http://localhost:8000/ 
