@@ -16,3 +16,6 @@ Try these urls:
 http://localhost:8000/authors/1
 
 http://localhost:8000/ 
+
+
+![image](https://user-images.githubusercontent.com/56207509/231933751-88748632-3a01-4519-ab5b-6a4e3da9ec69.png)
